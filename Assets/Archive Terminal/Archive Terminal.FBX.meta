@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 6c4daface57cfea4c88ae6c9e665559e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Button 1
+    100004: Button 1 Tip
+    100006: Button 2
+    100008: Button 2 Tip
+    100010: Button 3
+    100012: Button 3 Tip
+    100014: Button 4
+    100016: Button 4 Tip
+    100018: Button 5
+    100020: Button 5 Tip
+    100022: Cables
+    100024: Hole Punch 1 Bar
+    100026: Hole Punch 1 Bottom Arm
+    100028: Hole Punch 1 Head
+    100030: Hole Punch 1 Upper Arm
+    100032: Hole Punch 2 Bar
+    100034: Hole Punch 2 Bottom Arm
+    100036: Hole Punch 2 Head
+    100038: Hole Punch 2 Upper Arm
+    100040: Lever
+    100042: Metal Parts
+    100044: Rubber Parts
+    100046: Side Tape
+    100048: Slider
+    100050: Tape
+    100052: Tape Roll
+    100054: Clear
+    100056: Enter
+    400000: //RootNode
+    400002: Button 1
+    400004: Button 1 Tip
+    400006: Button 2
+    400008: Button 2 Tip
+    400010: Button 3
+    400012: Button 3 Tip
+    400014: Button 4
+    400016: Button 4 Tip
+    400018: Button 5
+    400020: Button 5 Tip
+    400022: Cables
+    400024: Hole Punch 1 Bar
+    400026: Hole Punch 1 Bottom Arm
+    400028: Hole Punch 1 Head
+    400030: Hole Punch 1 Upper Arm
+    400032: Hole Punch 2 Bar
+    400034: Hole Punch 2 Bottom Arm
+    400036: Hole Punch 2 Head
+    400038: Hole Punch 2 Upper Arm
+    400040: Lever
+    400042: Metal Parts
+    400044: Rubber Parts
+    400046: Side Tape
+    400048: Slider
+    400050: Tape
+    400052: Tape Roll
+    400054: Clear
+    400056: Enter
+    2300000: //RootNode
+    2300002: Button 1
+    2300004: Button 1 Tip
+    2300006: Button 2
+    2300008: Button 2 Tip
+    2300010: Button 3
+    2300012: Button 3 Tip
+    2300014: Button 4
+    2300016: Button 4 Tip
+    2300018: Button 5
+    2300020: Button 5 Tip
+    2300022: Cables
+    2300024: Hole Punch 1 Bar
+    2300026: Hole Punch 1 Bottom Arm
+    2300028: Hole Punch 1 Head
+    2300030: Hole Punch 1 Upper Arm
+    2300032: Hole Punch 2 Bar
+    2300034: Hole Punch 2 Bottom Arm
+    2300036: Hole Punch 2 Head
+    2300038: Hole Punch 2 Upper Arm
+    2300040: Lever
+    2300042: Metal Parts
+    2300044: Rubber Parts
+    2300046: Side Tape
+    2300048: Slider
+    2300050: Tape
+    2300052: Tape Roll
+    2300054: Clear
+    2300056: Enter
+    3300000: //RootNode
+    3300002: Button 1
+    3300004: Button 1 Tip
+    3300006: Button 2
+    3300008: Button 2 Tip
+    3300010: Button 3
+    3300012: Button 3 Tip
+    3300014: Button 4
+    3300016: Button 4 Tip
+    3300018: Button 5
+    3300020: Button 5 Tip
+    3300022: Cables
+    3300024: Hole Punch 1 Bar
+    3300026: Hole Punch 1 Bottom Arm
+    3300028: Hole Punch 1 Head
+    3300030: Hole Punch 1 Upper Arm
+    3300032: Hole Punch 2 Bar
+    3300034: Hole Punch 2 Bottom Arm
+    3300036: Hole Punch 2 Head
+    3300038: Hole Punch 2 Upper Arm
+    3300040: Lever
+    3300042: Metal Parts
+    3300044: Rubber Parts
+    3300046: Side Tape
+    3300048: Slider
+    3300050: Tape
+    3300052: Tape Roll
+    3300054: Clear
+    3300056: Enter
+    4300000: Archive Terminal
+    4300002: Button 3
+    4300004: Button 3 Tip
+    4300006: Button 4
+    4300008: Button 4 Tip
+    4300010: Button 5
+    4300012: Button 5 Tip
+    4300014: Button 2
+    4300016: Button 2 Tip
+    4300018: Button 1
+    4300020: Button 1 Tip
+    4300022: Metal Parts
+    4300024: Hole Punch 1 Head
+    4300026: Hole Punch 1 Bottom Arm
+    4300028: Hole Punch 1 Upper Arm
+    4300030: Hole Punch 1 Bar
+    4300032: Hole Punch 2 Bottom Arm
+    4300034: Hole Punch 2 Upper Arm
+    4300036: Hole Punch 2 Head
+    4300038: Hole Punch 2 Bar
+    4300040: Slider
+    4300042: Lever
+    4300044: Side Tape
+    4300046: Tape
+    4300048: Tape Roll
+    4300050: Rubber Parts
+    4300052: Cables
+    4300054: Enter
+    4300056: Clear
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

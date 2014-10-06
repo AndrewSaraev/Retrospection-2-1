@@ -1,0 +1,20 @@
+<root>
+<p code="120210210010" audio="Intro" error="Denied">
+	<p code="100010010120" audio="Patients" />
+	<p code="210100" audio="51" error="Denied_patien">
+		<p code="100120100100" audio="Retros2" clean="true" />
+	</p>
+</p>
+<!-- 
+0 = 000
+1 = 100
+2 = 200
+3 = 010
+4 = 110
+5 = 210
+6 = 020
+7 = 120
+8 = 220
+9 = 001
+//-->
+</root>
